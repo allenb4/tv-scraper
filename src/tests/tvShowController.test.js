@@ -1,5 +1,5 @@
 const TvShow = require('../models/TvShow');
-const { getAllShows } = require('../controllers/tvShowController'); // Adjust path as necessary
+const { getAllShows } = require('../controllers/tvShowController');
 
 jest.mock('../models/TvShow');
 
