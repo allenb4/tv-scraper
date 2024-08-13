@@ -1,0 +1,4 @@
+PORT=3000
+TVMAZE_API_URL=http://api.tvmaze.com
+MONGODB_URI=mongodb://localhost:27017/tvshows
+MONGODB_URI_TEST=mongodb://localhost:27017/tvshows_test
